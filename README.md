@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- I'm an Aerospace/CFD engineer 🛩️ at SANKHYASUTRA LABS 🏭 where I specialize in simulations and application testing 🔭
+- When I'm not busy, I mess around with creative projects 😄
+
+## Contact ☎️
+
+- 📫 How to reach me: https://cal.com/dhruvhaldar
+- 🌐 My Website showcasing projects: https://dhruvhaldar.vercel.app
+
 <!--
 **dhruvhaldar/dhruvhaldar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
