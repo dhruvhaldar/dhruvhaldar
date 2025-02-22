@@ -1,7 +1,7 @@
 ## Hej 👋
 
 - I'm an Aerospace/CFD engineer 🛩️ at SANKHYASUTRA LABS 🏭 where I specialize in simulations and application testing 🔭
-- I have a proven track record of successfully tackling challenging engineering issues in the fields of aerospace 🛩️, chemical 🧪, automotive 🏎️, and propulsion 🚀 systems.
+- Proven track record of successfully tackling challenging engineering issues in the fields of aerospace 🛩️, chemical 🧪, automotive 🏎️, and propulsion 🚀 systems.
 - When I'm not busy, I mess around with creative projects 😄
 
 ## Contact ☎️
