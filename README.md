@@ -16,9 +16,16 @@
 [![Flickr](https://img.shields.io/badge/Flickr-white.svg?logo=Flickr&logoColor=black)](https://www.flickr.com/people/186470240@N02/) 
 
 ## Github Statistics
-[![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvhaldar&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)](https://github.com/dhruvhaldar) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=dhruvhaldar&theme=transparent&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvhaldar&hide_border=true&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&layout=compact&card_width=250)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvhaldar&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvhaldar&hide_border=true&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvhaldar&theme=transparent&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" />
+</a>
 
 <!--
 **dhruvhaldar/dhruvhaldar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
