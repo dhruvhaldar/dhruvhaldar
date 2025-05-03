@@ -17,13 +17,13 @@
 
 ## Github Statistics
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/dhruvhaldar">
   <img height=200 width=440 src="https://github-readme-stats.vercel.app/api?username=dhruvhaldar&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/dhruvhaldar">
   <img height=200 width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvhaldar&hide_border=true&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&layout=compact&langs_count=10" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/dhruvhaldar">
   <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvhaldar&theme=transparent&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
 
