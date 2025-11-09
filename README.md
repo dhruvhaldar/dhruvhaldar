@@ -1,6 +1,6 @@
 ## Hallo! 👋
 
-- I'm an Aerospace/CFD engineer 🛩️ at [Tridiagonal Software Inc.](https://tridiagonal.com/) where I specialize in simulations and application testing 🔭
+- I'm an Aerospace/CFD engineer 🛩️ at [Tridiagonal Software Inc](https://tridiagonal.com/) where I specialize in simulations and application testing 🔭
 - I have a [Master's degree in Aerospace Engineering](https://www.kth.se/en/studies/master/aerospace-engineering/msc-aerospace-engineering-1.6529) from [KTH Royal Institute of Technology, Stockholm, Sweden](https://www.kth.se/en)
 - Proven track record of successfully tackling challenging engineering issues in the fields of aerospace 🛩️, chemical 🧪, automotive 🏎️, and propulsion 🚀 systems.
 - When I'm not busy, I mess around with creative projects 😄
