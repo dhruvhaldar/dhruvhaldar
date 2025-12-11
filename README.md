@@ -15,12 +15,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dhruvism/) 
 [![Flickr](https://img.shields.io/badge/Flickr-white.svg?logo=Flickr&logoColor=black)](https://www.flickr.com/people/186470240@N02/) 
 
-## Github Statistics
-
-<a href="https://github.com/dhruvhaldar">
-  <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvhaldar&theme=transparent&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" />
-</a>
-
 <!--
 **dhruvhaldar/dhruvhaldar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
