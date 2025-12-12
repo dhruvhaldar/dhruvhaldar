@@ -1,83 +1,108 @@
-## Hallo! 👋
+## 🚀 Dhruv Haldar - Aerospace/CFD Engineer
 
-- I'm an Aerospace/CFD engineer 🛩️ at [Tridiagonal Software Inc](https://tridiagonal.com/) where I specialize in simulations and application testing 🔭
-- I have a [Master's degree in Aerospace Engineering](https://www.kth.se/en/studies/master/aerospace-engineering/msc-aerospace-engineering-1.6529) from [KTH Royal Institute of Technology, Stockholm, Sweden](https://www.kth.se/en)
-- Proven track record of successfully tackling challenging engineering issues in the fields of aerospace 🛩️, chemical 🧪, automotive 🏎️, and propulsion 🚀 systems.
-- When I'm not busy, I mess around with creative projects 😄
-
-## Contact ☎️
-
-- 📫 How to reach me: https://cal.com/dhruvhaldar
-- 🌐 My Website showcasing projects: https://dhruvhaldar.vercel.app
-
-## Socials 💬
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvhaldar/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dhruvism/) 
-[![Flickr](https://img.shields.io/badge/Flickr-white.svg?logo=Flickr&logoColor=black)](https://www.flickr.com/people/186470240@N02/)
-
-## Languages & Tools ⚙️
-<p align="left">
+<div align="center">
+  <!-- <img src="https://via.placeholder.com/800x120/1E64C8/FFFFFF?text=Aerospace+%26+CFD+Specialist" alt="Aerospace CFD Simulation Banner" width="800"/> -->
+  <!-- <br/> -->
   
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python: Pyvista, Scipy, Scikit Learn, NumPy, Matplotlib, VTK, MPI4Py"/>
+  <p>
+  <a href="https://cal.com/dhruvhaldar">
+    <img src="https://img.shields.io/badge/Book_a_Call-1E64C8?style=for-the-badge&logo=calendly&logoColor=white" alt="Cal.com"/>
   </a>
-  
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" title="NumPy"/>
+  <a href="https://www.linkedin.com/in/dhruvhaldar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" title="Scikit Learn"/>
+  <a href="https://dhruvhaldar.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40" title="Matplotlib"/>
+  <a href="https://www.instagram.com/dhruvism/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  </p>
+</div>
 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" title="MATLAB: fmincon, fminunc, linprog, quadprog, ode45"/>
-  </a>
+---
 
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" title="R: ggplot2, dplyr, tidyr, tibble"/>
-  </a>
+## 👨‍🔬 Professional Profile
 
-  <a href="https://www.ansys.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/ANSYS_logo_without-blur.png" alt="ansys" height="40" title="ANSYS: CFX, Fensap-ICE, Fluent, Mechanical"/>
-  </a>
-  <a href="https://www.openfoam.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/OpenFOAM_logo.svg" alt="openfoam" width="120" height="80" title="OpenFOAM: pisoFoam, simpleFoam, snappyHexMesh"/>
-  </a>
-  <a href="https://www.paraview.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/ParaView_splash1.png" alt="paraview" width="160" height="100" title="Paraview: Clipper, Contour, Streamlines, Threshold, Transform"/>
-  </a>
-  <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SolidWorks_logo.tiff/lossless-page1-800px-SolidWorks_logo.tiff.png" alt="solidworks" width="150" height="100" title="Solidworks"/>
-  </a>
+- **Current Role:** Aerospace/CFD Engineer at **[Tridiagonal Software Inc](https://tridiagonal.com/)**. My focus is on numerical simulations and rigorous application testing (CFD/FEA) for industrial software.
+- **Education:** **[Master's degree in Aerospace Engineering](https://www.kth.se/en/studies/master/aerospace-engineering/msc-aerospace-engineering-1.6529)** from **[KTH Royal Institute of Technology, Stockholm, Sweden](https://www.kth.se/en)**.
+- **Expertise:** Proven success in resolving complex flow and structural challenges across diverse domains:
+    * **Aerospace** $\rightarrow$ Flight Dynamics and Aerodynamics
+    * **Automotive** $\rightarrow$ Drag Reduction and Thermal Management
+    * **Chemical/Propulsion** $\rightarrow$ Process Simulation and Reactive Flows
 
-  <a href="https://www.gurobi.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/gurobi/red" alt="gurobi" width="40" height="40" title="GAMS, CPLEX (LP, MIP), Gurobi (LP, MIP, MIQCP)"/>
-  </a>
+## 🛠️ Technology Stack & Tools
 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" title="Docker: Portainer, Docker Compose"/>
-  </a>
+### Simulation & CAD Tools
+<div align="left">
+<a href="https://www.ansys.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/ANSYS_logo_without-blur.png" height="40" alt="Ansys" title="ANSYS: CFX, Fensap-ICE, Fluent, Mechanical" style="margin: 0 5px"/>
+</a>
+<a href="https://www.openfoam.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/OpenFOAM_logo.svg" height="40" alt="OpenFOAM" title="OpenFOAM: pisoFoam, simpleFoam, snappyHexMesh" style="margin: 0 5px"/>
+</a>
+<a href="https://www.paraview.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/ParaView_splash1.png" height="40" alt="Paraview" title="Paraview: Clipper, Contour, Streamlines, Threshold, Transform" style="margin: 0 5px"/>
+</a>
+<a href="https://www.mathworks.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="Matlab" title="MATLAB: fmincon, fminunc, linprog, quadprog, ode45" style="margin: 0 5px"/>
+</a>
+<a href="https://www.solidworks.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SolidWorks_logo.tiff/lossless-page1-800px-SolidWorks_logo.tiff.png" height="40" alt="Solidworks" title="Solidworks" style="margin: 0 5px"/>
+</a>
+<a href="https://www.siemens.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/siemens/009999" height="40" alt="Siemens" title="Siemens NX, Nastran" style="margin: 0 0px"/>
+</a>
+</div>
 
-  <a href="https://angularjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40" title="AngularJS"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" title="React"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" title="Next.js"/>
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40" title="Vite"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" title="Tailwind CSS, Once UI"/>
-  </a>
-</p>
+### Data Analysis & Optimization
+<div align="left">
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python: Pyvista, VTK, MPI4Py" style="margin: 0 5px"/>
+</a>
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="Numpy" title="NumPy" style="margin: 0 5px"/>
+</a>
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn" title="Scikit Learn, SciPy" style="margin: 0 5px"/>
+</a>
+<a href="https://matplotlib.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" title="Matplotlib" style="margin: 0 5px"/>
+</a>
+<a href="https://www.r-project.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" title="R: ggplot2, dplyr, tidyr, tibble" style="margin: 0 5px"/>
+</a>
+<a href="https://www.gurobi.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/gurobi/DD0031" height="40" alt="Gurobi" title="GAMS, CPLEX (LP, MIP), Gurobi (LP, MIP, MIQCP)" style="margin: 0 5px"/>
+</a>
+</div>
 
-## Analytics 🛠️
-<!-- GitHub Profile Views Counter -->
-![Profile views](https://komarev.com/ghpvc/?username=dhruvhaldar&color=blue&style=flat)
+### Web & Deployment
+<div align="left">
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker: Portainer, Docker Compose" style="margin: 0 5px"/>
+</a>
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" style="margin: 0 5px"/>
+</a>
+<a href="https://nextjs.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="NextJS" title="Next.js" style="margin: 0 5px"/>
+</a>
+<a href="https://angularjs.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" title="AngularJS" style="margin: 0 5px"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind" title="Tailwind CSS, Once UI" style="margin: 0 5px"/>
+</a>
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhruvhaldar&color=blue&style=flat-square&label=Profile+Views" alt="profile views" />
+</div>
+
+<br/>
