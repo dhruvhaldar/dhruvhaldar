@@ -15,7 +15,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dhruvism/) 
 [![Flickr](https://img.shields.io/badge/Flickr-white.svg?logo=Flickr&logoColor=black)](https://www.flickr.com/people/186470240@N02/)
 
-## Languages & Tools 🌐
+## Languages & Tools ⚙️
 <p align="left">
   
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
