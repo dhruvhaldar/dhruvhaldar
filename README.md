@@ -24,7 +24,7 @@
 
 ## 👨‍🔬 Professional Profile
 
-- **Current Role:** Aerospace/CFD Engineer at **[Tridiagonal Software Inc](https://tridiagonal.com/)**. My focus is on numerical simulations and rigorous application testing (CFD/FEA) for industrial software.
+- **Current Role:** Aerospace/CFD Engineer at **[Tridiagonal Software Inc](https://tridiagonal.com/)**. My focus is on scientific visualization and development for post processing functions for industrial software.
 - **Education:** **[Master's degree in Aerospace Engineering](https://www.kth.se/en/studies/master/aerospace-engineering/msc-aerospace-engineering-1.6529)** from **[KTH Royal Institute of Technology, Stockholm, Sweden](https://www.kth.se/en)**.
 - **Expertise:** Proven success in resolving complex flow and structural challenges across diverse domains:
     * **Aerospace** $\rightarrow$ Flight Dynamics and Aerodynamics
