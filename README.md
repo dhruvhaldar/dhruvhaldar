@@ -34,67 +34,14 @@
 ## 🛠️ Technology Stack & Tools
 
 ### Simulation & CAD Tools
-<div align="left">
-<a href="https://www.ansys.com/" target="_blank">
-  <img src="https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/1/15/ANSYS_logo_without-blur.png&h=40&bg=white&p=5" height="40" alt="Ansys" title="ANSYS: CFX, Fensap-ICE, Fluent, Mechanical" style="margin: 0 5px"/>
-</a>
-<a href="https://www.openfoam.com/" target="_blank">
-  <img src="https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/4/48/OpenFOAM_logo.svg&h=40&bg=white&p=5" height="40" alt="OpenFOAM" title="OpenFOAM: pisoFoam, simpleFoam, snappyHexMesh" style="margin: 0 5px"/>
-</a>
-<a href="https://www.paraview.org/" target="_blank">
-  <img src="https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/4/46/ParaView_splash1.png&h=40&bg=white&p=5" height="40" alt="Paraview" title="Paraview: Clipper, Contour, Streamlines, Threshold, Transform" style="margin: 0 5px"/>
-</a>
-<a href="https://www.mathworks.com/" target="_blank">
-  <img src="https://wsrv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg&h=40&bg=white&p=5" height="40" alt="Matlab" title="MATLAB: fmincon, fminunc, linprog, quadprog, ode45" style="margin: 0 5px"/>
-</a>
-<a href="https://www.solidworks.com/" target="_blank">
-  <img src="https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SolidWorks_logo.tiff/lossless-page1-800px-SolidWorks_logo.tiff.png&h=40&bg=white&p=5" height="40" alt="Solidworks" title="Solidworks" style="margin: 0 5px"/>
-</a>
-<a href="https://www.siemens.com/" target="_blank">
-  <img src="https://wsrv.nl/?url=i.ibb.co/BHN3pQcD/msedge-Ojrh8t-JVi-Z.png" height="40" alt="Siemens" title="Siemens NX, Nastran" style="margin: 0 0px"/>
-</a>
-</div>
+<div align="left"><a href="https://www.ansys.com/" target="_blank"><img src="https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/1/15/ANSYS_logo_without-blur.png&h=40&bg=white&p=5" height="40" alt="Ansys" title="ANSYS: CFX, Fensap-ICE, Fluent, Mechanical" style="margin: 0 5px"/></a><a href="https://www.openfoam.com/" target="_blank"><img src="https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/4/48/OpenFOAM_logo.svg&h=40&bg=white&p=5" height="40" alt="OpenFOAM" title="OpenFOAM: pisoFoam, simpleFoam, snappyHexMesh" style="margin: 0 5px"/></a><a href="https://www.paraview.org/" target="_blank"><img src="https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/4/46/ParaView_splash1.png&h=40&bg=white&p=5" height="40" alt="Paraview" title="Paraview: Clipper, Contour, Streamlines, Threshold, Transform" style="margin: 0 5px"/></a><a href="https://www.mathworks.com/" target="_blank"><img src="https://wsrv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg&h=40&bg=white&p=5" height="40" alt="Matlab" title="MATLAB: fmincon, fminunc, linprog, quadprog, ode45" style="margin: 0 5px"/></a><a href="https://www.solidworks.com/" target="_blank"><img src="https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SolidWorks_logo.tiff/lossless-page1-800px-SolidWorks_logo.tiff.png&h=40&bg=white&p=5" height="40" alt="Solidworks" title="Solidworks" style="margin: 0 5px"/></a><a href="https://www.siemens.com/" target="_blank"><img src="https://wsrv.nl/?url=i.ibb.co/BHN3pQcD/msedge-Ojrh8t-JVi-Z.png" height="40" alt="Siemens" title="Siemens NX, Nastran" style="margin: 0 0px"/></a></div>
 
 ### Data Analysis & Optimization
-<div align="left">
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python: Pyvista, VTK, MPI4Py" style="margin: 0 5px"/>
-</a>
-<a href="https://numpy.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="Numpy" title="NumPy" style="margin: 0 5px"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn" title="Scikit Learn, SciPy" style="margin: 0 5px"/>
-</a>
-<a href="https://matplotlib.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" title="Matplotlib" style="margin: 0 5px"/>
-</a>
-<a href="https://www.r-project.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" title="R: ggplot2, dplyr, tidyr, tibble" style="margin: 0 5px"/>
-</a>
-<a href="https://www.gurobi.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/gurobi/DD0031" height="40" alt="Gurobi" title="GAMS, CPLEX (LP, MIP), Gurobi (LP, MIP, MIQCP)" style="margin: 0 5px"/>
-</a>
-</div>
+<div align="left"><a href="https://www.python.org/" target="_blank"><img src="https://wsrv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg&h=40&bg=white&p=5" height="40" alt="Python" title="Python: Pyvista, VTK, MPI4Py" style="margin: 0 5px"/></a><a href="https://numpy.org/" target="_blank"><img src="https://wsrv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg&h=40&bg=white&p=5" height="40" alt="Numpy" title="NumPy" style="margin: 0 5px"/>
+</a><a href="https://scikit-learn.org/" target="_blank"><img src="https://wsrv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg&h=40&bg=white&p=5" height="40" alt="Scikit-learn" title="Scikit Learn, SciPy" style="margin: 0 5px"/></a><a href="https://matplotlib.org/" target="_blank"><img src="https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg&h=40&bg=white&p=5" height="40" alt="Matplotlib" title="Matplotlib" style="margin: 0 5px"/></a><a href="https://www.r-project.org/" target="_blank"><img src="https://wsrv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg&h=40&bg=white&p=5" height="40" alt="R" title="R: ggplot2, dplyr, tidyr, tibble" style="margin: 0 5px"/></a><a href="https://www.gurobi.com/" target="_blank"><img src="https://wsrv.nl/?url=cdn.simpleicons.org/gurobi/DD0031&h=40&bg=white&p=5" height="40" alt="Gurobi" title="GAMS, CPLEX (LP, MIP), Gurobi (LP, MIP, MIQCP)" style="margin: 0 5px"/></a></div>
 
 ### Web & Deployment
-<div align="left">
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker: Portainer, Docker Compose" style="margin: 0 5px"/>
-</a>
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" style="margin: 0 5px"/>
-</a>
-<a href="https://nextjs.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="NextJS" title="Next.js" style="margin: 0 5px"/>
-</a>
-<a href="https://angularjs.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" title="AngularJS" style="margin: 0 5px"/>
-</a>
-<a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind" title="Tailwind CSS, Once UI" style="margin: 0 5px"/>
-</a>
-</div>
+<div align="left"><a href="https://www.docker.com/" target="_blank"><img src="https://wsrv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg&h=40&bg=white&p=5" height="40" alt="Docker" title="Docker: Portainer, Docker Compose" style="margin: 0 5px"/></a><a href="https://reactjs.org/" target="_blank"><img src="https://wsrv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg&h=40&bg=white&p=5" height="40" alt="React" title="React" style="margin: 0 5px"/></a><a href="https://nextjs.org/" target="_blank"><img src="https://wsrv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg&h=40&bg=white&p=5" height="40" alt="NextJS" title="Next.js" style="margin: 0 5px"/></a><a href="https://angularjs.org/" target="_blank"><img src="https://wsrv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg&h=40&bg=white&p=5" height="40" alt="Angular" title="AngularJS" style="margin: 0 5px"/></a><a href="https://tailwindcss.com/" target="_blank"><img src="https://wsrv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg&h=40&bg=white&p=5" height="40" alt="Tailwind" title="Tailwind CSS, Once UI" style="margin: 0 5px"/></a></div>
 
 <br/>
 
