@@ -1,22 +1,19 @@
 ## 🚀 Dhruv Haldar - Aerospace/CFD Engineer
 
 <a href="https://git.io/typing-svg">
-  <img align="right" src="https://readme-typing-svg.herokuapp.com?font=Geist&weight=550&size=30&duration=500&pause=1000&color=040816&background=ADF5D700&center=true&vCenter=true&random=true&width=440&lines=Aerospace;CFD;Systems+%26+Control;Mechanical;Process" alt="Typing SVG" />
+  <img align="right" src="https://readme-typing-svg.herokuapp.com?font=Geist&weight=550&size=40&duration=500&pause=1000&color=040816&background=ADF5D700&center=true&vCenter=true&random=true&width=440&lines=Aerospace;CFD;Systems+%26+Control;Mechanical;Process" alt="Typing SVG" />
 </a>
 
-<sub>
-<a href="https://cal.com/dhruvhaldar"><img src="https://img.shields.io/badge/Book_a_Call-8daa91?style=for-the-badge&logo=calendly&logoColor=white" alt="Cal.com"/></a>
-<a href="https://www.linkedin.com/in/dhruvhaldar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://dhruvhaldar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/></a>
-</sub>
-
+<a href="https://cal.com/dhruvhaldar"><img src="https://img.shields.io/badge/Book_a_Call-758e4f?style=for-the-badge&logo=calendly&logoColor=white" style="vertical-align: -10px;" alt="Cal.com"/></a>
+<a href="https://www.linkedin.com/in/dhruvhaldar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align: -10px;" alt="LinkedIn"/></a>
+<a href="https://dhruvhaldar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" style="vertical-align: -10px;" alt="Website"/></a>
 <br clear="all" />
 
 ---
 
 ## 👨‍🔬 Professional Profile
 
-- **Current Role:** Senior CFD Engineer at **[Tridiagonal Software Inc](https://tridiagonal.com/)**. My focus is on scientific visualization and development for post processing functions for industrial software.
+- **Current Role:** Senior CFD Engineer at **[Tridiagonal Software Inc](https://tridiagonal.com/)**. My focus is on scientific visualization and development for post processing functions for industrial mixing software.
 - **Education:** **[Master's degree in Aerospace Engineering](https://www.kth.se/en/studies/master/aerospace-engineering/msc-aerospace-engineering-1.6529)** from **[KTH Royal Institute of Technology, Stockholm, Sweden](https://www.kth.se/en)**.
 - **Expertise:** Proven success in resolving complex flow and structural challenges across diverse domains:
     * **Aerospace** ➡️ Flight Dynamics, Aerodynamics, Aircraft Icing, Space Physics
