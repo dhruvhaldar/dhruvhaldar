@@ -2,31 +2,10 @@
 
 <img align="right" src="./animated-text.svg" alt="Animated Roles" />
 
-<table width="440" height="60" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" valign="middle" width="33%">
-      <div align="center">
-        <a href="https://cal.com/dhruvhaldar">
-          <img src="https://img.shields.io/badge/Book_a_Call-758e4f?style=for-the-badge&logo=calendly&logoColor=white" alt="Cal.com"/>
-        </a>
-      </div>
-    </td>
-    <td align="center" valign="middle" width="33%">
-      <div align="center">
-        <a href="https://www.linkedin.com/in/dhruvhaldar/">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        </a>
-      </div>
-    </td>
-    <td align="center" valign="middle" width="33%">
-      <div align="center">
-        <a href="https://dhruvhaldar.vercel.app">
-          <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+<a href="https://cal.com/dhruvhaldar"><img src="https://img.shields.io/badge/Book_a_Call-758e4f?style=for-the-badge&logo=calendly&logoColor=white" style="vertical-align: -10px;" alt="Cal.com"/></a>
+<a href="https://www.linkedin.com/in/dhruvhaldar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align: -10px;" alt="LinkedIn"/></a>
+<a href="https://dhruvhaldar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" style="vertical-align: -10px;" alt="Website"/></a>
+<br clear="all" />
 
 ## 👨‍🔬 Professional Profile
 
