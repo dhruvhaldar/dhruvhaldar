@@ -28,11 +28,11 @@
     .border-box {
       fill: none;
       stroke: #7d8590; /* Neutral grey */
-      stroke-width: 1.5px;
+      stroke-width: 1px; /* Thinner border */
     }
   </style>
 
-  <rect x="1" y="1" width="438" height="58" rx="6" class="border-box" />
+  <rect x="0.5" y="0.5" width="439" height="59" class="border-box" />
 
   <text x="220" y="30" class="text w1">Aerospace</text>
   <text x="220" y="30" class="text w2">CFD</text>
