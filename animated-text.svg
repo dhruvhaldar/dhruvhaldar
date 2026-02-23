@@ -7,7 +7,6 @@
       dominant-baseline: middle;
       text-anchor: middle;
       opacity: 0;
-      /* 5 words * 2.5s each = 12.5s total animation cycle */
       animation: cycle 12s infinite;
     }
     
@@ -24,7 +23,16 @@
       5%, 15% { opacity: 1; transform: translateY(0); }
       18%, 100% { opacity: 0; transform: translateY(-5px); }
     }
+
+    /* Border styling */
+    .border-box {
+      fill: none;
+      stroke: #7d8590; /* Neutral grey */
+      stroke-width: 1.5px;
+    }
   </style>
+
+  <rect x="1" y="1" width="438" height="58" rx="6" class="border-box" />
 
   <text x="220" y="30" class="text w1">Aerospace</text>
   <text x="220" y="30" class="text w2">CFD</text>
