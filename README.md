@@ -20,6 +20,19 @@
     * **Automotive** ➡️ Drag Reduction and Thermal Management
     * **Chemical/Propulsion**  ➡️ Process Simulation, Mixing and Reactive Flows
 
+## 💻 Featured Projects
+
+| 🚀 Project Name | 📝 Description | 🌐 Deployment / Link |
+| :--- | :--- | :--- |
+| [**FOAMFlask**](https://github.com/dhruvhaldar/FOAMFlask) | Yet another OpenFOAM frontend |  [![Documentation](https://img.shields.io/badge/Docs-blue?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/dhruvhaldar/FOAMFlask) |
+| [**FDR_DATALINK**](https://github.com/dhruvhaldar/FDR_DATALINK) | Flight Data Recorder Analysis Interface | [![Live Demo](https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white)](https://fdr-datalink.vercel.app/) |
+| [**Alfven**](https://github.com/dhruvhaldar/alfven) | Space Weather & Plasma Physics Simulator | [![App](https://img.shields.io/badge/Web_App-gray?style=for-the-badge&logo=react&logoColor=white)](https://alfven.vercel.app/) |
+| [**Voyager**](https://github.com/dhruvhaldar/your-repo-link) | Bridge the gap between abstract protocols and physical data movement for satellites 📡 🛰️ | [![Live Demo](https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white)](https://voyager-theta-nine.vercel.app/) |
+| [**AstroChop**](https://github.com/dhruvhaldar/AstroChop) | Python tool for generating interplanetary porkchop plots and mesh generation |  [![Documentation](https://img.shields.io/badge/Docs-blue?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/dhruvhaldar/AstroChop) |
+
+
+<br/>
+
 ## 🛠️ Technology Stack & Tools
 
 ### Simulation & CAD Tools
@@ -31,19 +44,6 @@
 ### Web & Deployment
 <div align="left"><a href="https://www.docker.com/" target="_blank"><img src="https://wsrv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg&h=40&bg=white&p=5" height="40" alt="Docker" title="Docker: Portainer, Docker Compose" style="margin: 0 5px"/></a><a href="https://reactjs.org/" target="_blank"><img src="https://wsrv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg&h=40&bg=white&p=5" height="40" alt="React" title="React" style="margin: 0 5px"/></a><a href="https://nextjs.org/" target="_blank"><img src="https://wsrv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg&h=40&bg=white&p=5" height="40" alt="NextJS" title="Next.js" style="margin: 0 5px"/></a><a href="https://angularjs.org/" target="_blank"><img src="https://wsrv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg&h=40&bg=white&p=5" height="40" alt="Angular" title="AngularJS" style="margin: 0 5px"/></a><a href="https://tailwindcss.com/" target="_blank"><img src="https://wsrv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg&h=40&bg=white&p=5" height="40" alt="Tailwind" title="Tailwind CSS, Once UI" style="margin: 0 5px"/></a><a href="https://vercel.com/" target="_blank"><img src="https://wsrv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg&h=40&bg=white&p=5" height="40" alt="Vercel" title="Vercel" style="margin: 0 5px"/></a>
 </div>
-
-<br/>
-
-## 💻 Featured Projects
-
-| 🚀 Project Name | 📝 Description | 🌐 Deployment / Link |
-| :--- | :--- | :--- |
-| [**FOAMFlask**](https://github.com/dhruvhaldar/FOAMFlask) | Yet another OpenFOAM frontend |  [![Documentation](https://img.shields.io/badge/Docs-blue?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/dhruvhaldar/FOAMFlask) |
-| [**FDR_DATALINK**](https://github.com/dhruvhaldar/FDR_DATALINK) | Flight Data Recorder Analysis Interface | [![Live Demo](https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white)](https://fdr-datalink.vercel.app/) |
-| [**Alfven**](https://github.com/dhruvhaldar/alfven) | Space Weather & Plasma Physics Simulator | [![App](https://img.shields.io/badge/Web_App-gray?style=for-the-badge&logo=react&logoColor=white)](https://alfven.vercel.app/) |
-| [**Voyager**](https://github.com/dhruvhaldar/your-repo-link) | Bridge the gap between abstract protocols and physical data movement for satellites 📡 🛰️ | [![Live Demo](https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white)](https://voyager-theta-nine.vercel.app/) |
-| [**AstroChop**](https://github.com/dhruvhaldar/AstroChop) | Python tool for generating interplanetary porkchop plots and mesh generation |  [![Documentation](https://img.shields.io/badge/Docs-blue?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/dhruvhaldar/AstroChop) |
-
 
 <br/>
 
