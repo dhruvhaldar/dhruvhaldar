@@ -1,8 +1,6 @@
 ## 🚀 Dhruv Haldar - Aerospace/CFD Engineer
 
-<a href="https://git.io/typing-svg">
-  <img align="right" src="https://readme-typing-svg.demolab.com?font=Geist&weight=550&size=40&duration=500&pause=1000&color=22b289;3b82f6;ef4444;f59e0b;8b5cf6&background=ADF5D700&center=true&vCenter=true&random=true&width=440&lines=Aerospace;CFD;Systems+%26+Control;Mechanical;Process" alt="Typing SVG" />
-</a>
+<img align="right" src="./animated-text.svg" alt="Animated Roles" />
 
 <a href="https://cal.com/dhruvhaldar"><img src="https://img.shields.io/badge/Book_a_Call-758e4f?style=for-the-badge&logo=calendly&logoColor=white" style="vertical-align: -10px;" alt="Cal.com"/></a>
 <a href="https://www.linkedin.com/in/dhruvhaldar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align: -10px;" alt="LinkedIn"/></a>
