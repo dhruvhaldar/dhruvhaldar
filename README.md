@@ -16,9 +16,9 @@
 - **Current Role:** Senior CFD Engineer at **[Tridiagonal Software Inc](https://tridiagonal.com/)**. My focus is on scientific visualization and development for post processing functions for industrial mixing software.
 - **Education:** **[Master's degree in Aerospace Engineering](https://www.kth.se/en/studies/master/aerospace-engineering/msc-aerospace-engineering-1.6529)** from **[KTH Royal Institute of Technology, Stockholm, Sweden](https://www.kth.se/en)**.
 - **Expertise:** Proven success in resolving complex flow and structural challenges across diverse domains:
-    * **Aerospace** ➡️ Flight Dynamics, Aerodynamics, Aircraft Icing, Space Physics
-    * **Automotive** ➡️ Drag Reduction and Thermal Management
-    * **Chemical/Propulsion**  ➡️ Process Simulation, Mixing and Reactive Flows
+    * **Aerospace** 🛩️ : Flight Dynamics, Aerodynamics, Aircraft Icing, Space Physics
+    * **Automotive** 🏎️ : Drag Reduction and Thermal Management
+    * **Chemical/Propulsion** 🧪 : Process Simulation, Mixing and Reactive Flows
 
 ## 💻 Featured Projects
 
