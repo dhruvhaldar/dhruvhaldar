@@ -38,9 +38,12 @@
 
 | 🚀 Project Name | 📝 Description | 🌐 Deployment / Link |
 | :--- | :--- | :--- |
-| [**FOAMFlask**](https://github.com/dhruvhaldar/your-repo-link) | Yet another OpenFOAM frontend |  [![App](https://img.shields.io/badge/Web_App-gray?style=for-the-badge&logo=react&logoColor=white)](https://github.com/dhruvhaldar/FOAMFlask) |
-| [**Alfven**](https://github.com/dhruvhaldar/alfven) | Space Weather & Plasma Physics Simulator | [![Live Demo](https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white)](https://alfven.vercel.app/) |
+| [**FOAMFlask**](https://github.com/dhruvhaldar/FOAMFlask) | Yet another OpenFOAM frontend |  [![Documentation](https://img.shields.io/badge/Docs-blue?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/dhruvhaldar/FOAMFlask) |
+| [**FDR_DATALINK**](https://github.com/dhruvhaldar/FDR_DATALINK) | Flight Data Recorder Analysis Interface | [![Live Demo](https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white)](https://fdr-datalink.vercel.app/) |
+| [**Alfven**](https://github.com/dhruvhaldar/alfven) | Space Weather & Plasma Physics Simulator | [![App](https://img.shields.io/badge/Web_App-gray?style=for-the-badge&logo=react&logoColor=white)](https://alfven.vercel.app/) |
 | [**Voyager**](https://github.com/dhruvhaldar/your-repo-link) | Bridge the gap between abstract protocols and physical data movement for satellites 📡 🛰️ | [![Live Demo](https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white)](https://voyager-theta-nine.vercel.app/) |
+| [**AstroChop**](https://github.com/dhruvhaldar/AstroChop) | Python tool for generating interplanetary porkchop plots and mesh generation |  [![Documentation](https://img.shields.io/badge/Docs-blue?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/dhruvhaldar/AstroChop) |
+
 
 <br/>
 
