@@ -2,10 +2,11 @@
 <table border="0">
   <tr>
     <td valign="middle">
-      <a href="https://orcid.org/0000-0002-2734-313X"><img src="https://img.shields.io/badge/Research_Paper-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Research Papers"/></a>
       <a href="https://cal.com/dhruvhaldar"><img src="https://img.shields.io/badge/Book_a_Call-758e4f?style=for-the-badge&logo=calendly&logoColor=white" alt="Cal.com"/></a>
       <a href="https://www.linkedin.com/in/dhruvhaldar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
       <a href="https://dhruvhaldar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/></a>
+       <a href="https://orcid.org/0000-0002-2734-313X"><img src="https://img.shields.io/badge/Research_Papers-a09abc?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Research Papers"/>
+       </a>
     </td>
     <td valign="middle" align="right">
       <img src="./animated-text.svg" alt="Animated Roles" />
