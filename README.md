@@ -1,5 +1,10 @@
 ## 🚀 Dhruv Haldar - Aerospace/CFD Engineer 
-<a href="https://cal.com/dhruvhaldar"><img src="https://img.shields.io/badge/Book_a_Call-758e4f?style=for-the-badge&logo=calendly&logoColor=white" alt="Cal.com"/></a><a href="https://www.linkedin.com/in/dhruvhaldar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="https://dhruvhaldar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/></a><img align="right" src="./animated-text.svg" alt="Animated Roles" /><br clear="all" />
+<div style="display:flex">
+<a href="https://cal.com/dhruvhaldar"><img src="https://img.shields.io/badge/Book_a_Call-758e4f?style=for-the-badge&logo=calendly&logoColor=white" alt="Cal.com"/></a>
+<a href="https://www.linkedin.com/in/dhruvhaldar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://dhruvhaldar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/></a><img align="right" src="./animated-text.svg" alt="Animated Roles" /><br clear="all" />
+</div>
+
 ## 👨‍🔬 Professional Profile
 
 - **Current Role:** Senior CFD Engineer at **[Tridiagonal Software Inc](https://tridiagonal.com/)**. My focus is on scientific visualization and development for post processing functions for industrial mixing software.
