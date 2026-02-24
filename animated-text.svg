@@ -7,15 +7,15 @@
       dominant-baseline: middle;
       text-anchor: middle;
       opacity: 0;
-      animation: cycle 12s infinite;
+      animation: cycle 7.5s infinite; /* Speed increased from 12s */
     }
     
-    /* Assigning colors and staggering the start times */
+    /* Tighter delays for a faster hand-off between words */
     .w1 { fill: #22b289; animation-delay: 0s; }
-    .w2 { fill: #3b82f6; animation-delay: 2s; }
-    .w3 { fill: #ef4444; animation-delay: 4.5s; }
-    .w4 { fill: #f59e0b; animation-delay: 7s; }
-    .w5 { fill: #8b5cf6; animation-delay: 9.5s; }
+    .w2 { fill: #3b82f6; animation-delay: 1.5s; }
+    .w3 { fill: #ef4444; animation-delay: 3s; }
+    .w4 { fill: #f59e0b; animation-delay: 4.5s; }
+    .w5 { fill: #8b5cf6; animation-delay: 6s; }
 
     /* The animation logic */
     @keyframes cycle {
