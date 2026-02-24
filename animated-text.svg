@@ -23,16 +23,7 @@
       5%, 15% { opacity: 1; transform: translateY(0); }
       18%, 100% { opacity: 0; transform: translateY(-5px); }
     }
-
-    /* Border styling */
-    .border-box {
-      fill: none;
-      stroke: #7d8590; /* Neutral grey */
-      stroke-width: 1px; /* Thinner border */
-    }
   </style>
-
-  <rect x="0.5" y="0.5" width="439" height="59" class="border-box" />
 
   <text x="220" y="30" class="text w1">Aerospace</text>
   <text x="220" y="30" class="text w2">CFD</text>
