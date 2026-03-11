@@ -33,7 +33,8 @@
 | [**Voyager**](https://github.com/dhruvhaldar/voyager) | Bridge the gap between abstract protocols and physical data movement for satellites 📡 🛰️ | [![Live Demo](https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white)](https://voyager-theta-nine.vercel.app/) |
 | [**AstroChop**](https://github.com/dhruvhaldar/AstroChop) | Python tool for generating interplanetary porkchop plots and mesh generation |  [![Documentation](https://img.shields.io/badge/Docs-blue?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/dhruvhaldar/AstroChop) |
 | [**Phugoid**](https://github.com/dhruvhaldar/phugoid) | Flight Dynamics & Control Workbench | [![App](https://img.shields.io/badge/Web_App-gray?style=for-the-badge&logo=react&logoColor=white)](https://phugoid.vercel.app/) |
-| [**Shannon**](https://github.com/dhruvhaldar/phugoid) | Space-to-Ground communication chain simulator | [![App](https://img.shields.io/badge/Web_App-gray?style=for-the-badge&logo=react&logoColor=white)](https://shannon-five.vercel.app/) |
+| [**Shannon**](https://github.com/dhruvhaldar/phugoid) | Space-to-Ground Communication Chain Simulator | [![App](https://img.shields.io/badge/Web_App-gray?style=for-the-badge&logo=react&logoColor=white)](https://shannon-five.vercel.app/) |
+| [**Horizon**](https://github.com/dhruvhaldar/horizon) | Applied Systems Engineering & Operations Research Simulator | [![App](https://img.shields.io/badge/Web_App-gray?style=for-the-badge&logo=react&logoColor=white)](https://horizon-three-mu.vercel.app/) |
 
 
 <br/>
