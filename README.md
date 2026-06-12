@@ -38,6 +38,7 @@
 | [**Horizon**](https://github.com/dhruvhaldar/horizon) | Applied Systems Engineering & Operations Research Simulator | [![App](https://img.shields.io/badge/Web_App-gray?style=for-the-badge&logo=react&logoColor=white)](https://horizon-three-mu.vercel.app/) |
 | [**Plenum**](https://github.com/dhruvhaldar/Plenum) | Go based OpenFOAM dict generator | [![App](https://img.shields.io/badge/Web_App-gray?style=for-the-badge&logo=react&logoColor=white)](https://plenum-seven.vercel.app/) |
 | [**Cassini**](https://github.com/dhruvhaldar/cassini) | Attitude Determination and Control System (ADCS) simulation library | [![App](https://img.shields.io/badge/Web_App-gray?style=for-the-badge&logo=react&logoColor=white)](cassini-hazel.vercel.app) |
+| [**Zenith**](https://github.com/dhruvhaldar/zenith) | Engineering-focused astronomy toolkit | [![App](https://img.shields.io/badge/Web_App-gray?style=for-the-badge&logo=react&logoColor=white)](zenith-six-red.vercel.app) |
 
 
 <br/>
